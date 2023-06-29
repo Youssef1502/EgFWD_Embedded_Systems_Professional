@@ -13,4 +13,4 @@ Here, I used Proteus 8 Professional in order to simulate AVR Atmega32. I have th
   * The system will stop cars if not already on red light as per request
 
 ## Details & Program Flow Chart
-You can find system details and program flow chart in project documentation [here](https://github.com/FahdSeddik/ESND-On-demand-Traffic-light-control/blob/main/Project%20Documentation.pdf).
+You can find system details and program flow chart in project documentation [here](https://github.com/Youssef1502/EgFWD_Embedded_Systems_Professional/blob/main/On-demand-Traffic-Light-Control/Project%20Documentation.pdf).
