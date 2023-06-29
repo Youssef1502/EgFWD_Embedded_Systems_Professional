@@ -1,2 +1,6 @@
-# EgFWD_Embedded_Systems_Professional
-Embedded Systems Professional Nanodegree by Egypt FWD and udacity.
+# EgFWD Embedded Systems Professional projects
+
+The Professional Embedded Systems Nanodegree projects:
+
+- [Payment Application]()
+- [On-demand Traffic Light Control]()
